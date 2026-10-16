@@ -1,0 +1,11 @@
+# --- Build artifacts & IDE junk ---
+__pycache__/
+*.pyc
+*.elf
+*.hex
+*.o
+*.lst
+*.map
+.vscode/
+.DS_Store
+Thumbs.db
